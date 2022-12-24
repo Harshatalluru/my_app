@@ -1,0 +1,15 @@
+{
+  "Flex": 186,
+  "TextBox": 153,
+  "Image": 69,
+  "Button": 2,
+  "Div": 3,
+  "UnorderedList": 7,
+  "Testimonial": 1,
+  "Overlay": 1,
+  "Step": 1,
+  "Radio": 1,
+  "Accordion": 1,
+  "Slider": 1,
+  "LineChart": 1
+}
