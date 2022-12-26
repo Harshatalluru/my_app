@@ -3,7 +3,7 @@ display: flex;
 height: ;
 justify-content: center;
 align-content: stretch;
-align-items: stretch;
+align-items: center;
 float: none;
 flex-direction: row;
 margin-top: ;
@@ -161,12 +161,14 @@ flex-direction: row;
 margin-top: 200px;
 overflow: visible;
 box-sizing: initial;
+margin-right: 235px;
 }
 .p-Home.Flex28 {
 display: flex;
 justify-content: center;
 height: 200px;
 flex-direction: column;
+margin-left: 245px;
 }
 .p-Home.Flex31 {
 display: flex;
@@ -415,6 +417,8 @@ margin-top: ;
 margin-left: ;
 margin-right: ;
 margin-bottom: ;
+padding-left: 70px;
+padding-right: ;
 }
 .p-Home.Flex74 {
 display: flex;
@@ -433,6 +437,8 @@ flex-direction: column;
 display: flex;
 justify-content: space-around;
 margin-top: 130px;
+padding-left: 80px;
+padding-right: ;
 }
 .p-Home.Flex79 {
 display: flex;
@@ -449,6 +455,7 @@ row-gap: ;
 margin-bottom: 200px;
 margin-right: 50px;
 column-gap: 100px;
+margin-left: ;
 }
 .p-Home.Flex86 {
 display: flex;
@@ -878,7 +885,8 @@ padding-bottom: 20px;
 float: right;
 }
 .p-Home.Image66 {
-;
+margin-left: ;
+padding-left: 70px;
 }
 .p-Home.TextBox4 {
 ;
@@ -1175,8 +1183,10 @@ background-attachment: local;
 ;
 }
 .p-Home.Image17 {
-width: ;
-height: ;
+width: 270px;
+height: 350px;
+padding-top: ;
+padding-bottom: ;
 }
 .p-Home.TextBox44 {
 ;
@@ -1330,18 +1340,18 @@ height: 600px;
 width: ;
 }
 .p-Home.Image36 {
-width: 450px;
+width: 350px;
 margin-left: 10px;
 margin-right: 10px;
-height: 272px;
+height: 372px;
 }
 .p-Home.Image37 {
 margin-top: 20px;
 margin-bottom: 20px;
 margin-left: 10px;
 margin-right: 10px;
-width: 450px;
-height: 310px;
+width: 350px;
+height: 210px;
 }
 .p-Home.TextBox78 {
 font-family: IBM Plex Sans;
