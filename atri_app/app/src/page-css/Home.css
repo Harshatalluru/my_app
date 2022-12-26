@@ -1115,9 +1115,9 @@ width: 70%;
 color: #fff;
 background-color: #0a0a0b;
 padding-top: 15px;
-padding-left: 15px;
+padding-left: ;
 padding-bottom: 15px;
-padding-right: 15px;
+padding-right: ;
 font-size: 22px;
 border-radius: 2px;
 outline: none;
@@ -1130,6 +1130,7 @@ cursor: pointer;
 user-select: none;
 align-self: center;
 font-family: IBM Plex Sans;
+width: 250px;
 }
 .p-Home.Overlay1 {
 background-color: #00000073;
