@@ -70,7 +70,31 @@
     -webkit-text-fill-color: transparent;
 }
 
-.p-Home.TextBox112{
+.p-Home.TextBox112 .TextBox155{
+    letter-spacing: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox155{
+    letter-spacing: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox156{
+    letter-spacing: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox159{
     letter-spacing: 5px;
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
     -webkit-background-clip: text;
@@ -84,6 +108,10 @@
     -webkit-background-clip: text;
     
     -webkit-text-fill-color: transparent;
+}
+
+.p-Home.Flex27::-webkit-scrollbar{
+    display: none;
 }
 
 .p-Home.Image53{
